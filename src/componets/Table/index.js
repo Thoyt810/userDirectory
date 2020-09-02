@@ -30,7 +30,6 @@ const Table = () => {
             })}
           </tr>
         </thead>
-
         <DataBody />
       </table>
     </div>
